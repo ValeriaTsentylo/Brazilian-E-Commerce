@@ -2,7 +2,7 @@
 
 ### Executive Dashboard
 
-![Brazilian E-Commerce Dashboard](tableau/dashboard/dashboard.png)
+![Brazilian E-Commerce Dashboard](Brazilian%20E-Commerce/tableau/dashboard/dashboard.png)
 
 The dashboard provides a high-level overview of:
 - Revenue trends
